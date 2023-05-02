@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+Pro:wght@600&display=swap');
+h1 {
+    font-family: 'Source Serif Pro', serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 39.81px;
+    line-height: 60px;
+}
+.bg-gray {
+    background-color: #423F3E !important;
+}
+.bg-gray-login{
+    background-color: #DCDCDC !important;
+}
+.text-gray {
+    color: #DBDBDB !important;
+}
+
+.card-login {
+  box-shadow: 8px 8px 32px #423F3E;
+  border-radius: 8px;
+}
+
+.bg-choco {
+    background-color: #F1DEC9;
+}
+
+.bg-choco-light {
+    background-color: #A4907C;
+}
+
+.text-choco {
+    color: #8D7B68;
+}
+
+  
+  
